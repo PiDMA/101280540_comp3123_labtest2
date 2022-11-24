@@ -15,9 +15,6 @@ function App() {
       });
     }
   }
-  // let iconCode = data.weather[0].icon;
-  // let iconUrl = `http://openweathermap.org/img/w/${iconCode}.png`;
-
   return (
     <div className="app">
     <div className='search'>
